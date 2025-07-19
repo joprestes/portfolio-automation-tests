@@ -100,7 +100,7 @@ npm run report:open         # Abre no navegador
 Líder de Engenharia de Qualidade apaixonada por automação de testes, acessibilidade digital e entrega contínua com excelência.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/joprestes84/)  
-🔗 [GitHub](https://github.com/joelmaferreira)  
+🔗 [GitHub](https://github.com/joprestes)  
 ✍️ [Medium](https://medium.com/@joprestes)  
 📧 joprestes@hotmail.com
 
