@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Allure reports
+allure-report/
+allure-results/
+
+# Cypress
+cypress/screenshots/
+cypress/videos/
+
+# VSCode
+.vscode/
+
+# Logs e sistema
+*.log
+.DS_Store
