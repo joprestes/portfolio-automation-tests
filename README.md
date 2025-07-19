@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#-versão-em-português-br">Português 🇧🇷</a> | 
-  <a href="#-english-version-us">English 🇺🇸</a>
+  <a href="#english-version-">English 🇺🇸</a>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## 🇧🇷 Versão em Português 🇧🇷
 
-Este repositório contém a suíte de testes de ponta a ponta (E2E) desenvolvida com **Cypress** para validar o [Portfólio Profissional de Joelma Ferreira](https://github.com/joelmaferreira/portfolio).
+Este repositório contém a suíte de testes de ponta a ponta (E2E) desenvolvida com **Cypress** para validar o [Portfólio Profissional de Joelma Ferreira](https://github.com/joprestes/portfolio).
 
 A automação cobre funcionalidades essenciais, comportamento responsivo e critérios de acessibilidade digital com o uso de `cypress-axe`, garantindo que a experiência do usuário final se mantenha funcional, inclusiva e confiável.
 
@@ -100,7 +100,7 @@ npm run report:open         # Abre no navegador
 Líder de Engenharia de Qualidade apaixonada por automação de testes, acessibilidade digital e entrega contínua com excelência.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/joprestes84/)  
-🔗 [GitHub](https://github.com/joelmaferreira)  
+🔗 [GitHub](https://github.com/joprestes)  
 ✍️ [Medium](https://medium.com/@joprestes)  
 📧 joprestes@hotmail.com
 
@@ -114,7 +114,7 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ## 🇺🇸 English Version 🇺🇸
 
-This repository contains the Cypress E2E test suite for the [Joelma Ferreira’s Portfolio](https://github.com/joelmaferreira/portfolio), covering functional flows, responsiveness, and accessibility (a11y) compliance via `cypress-axe`.
+This repository contains the Cypress E2E test suite for the [Joelma Ferreira’s Portfolio](https://github.com/joprestes/portfolio), covering functional flows, responsiveness, and accessibility (a11y) compliance via `cypress-axe`.
 
 ### ✨ Key Test Areas
 
@@ -136,4 +136,4 @@ npm run report:open
 
 ---
 
-🔗 [LinkedIn](https://www.linkedin.com/in/joprestes84/) | [GitHub](https://github.com/joelmaferreira) | [Medium](https://medium.com/@joprestes)
+🔗 [LinkedIn](https://www.linkedin.com/in/joprestes84/) | [GitHub](https://github.com/joprestes) | [Medium](https://medium.com/@joprestes)
