@@ -16,7 +16,7 @@
 
 ## 🇧🇷 Versão em Português 🇧🇷
 
-Este repositório contém a suíte de testes de ponta a ponta (E2E) desenvolvida com **Cypress** para validar o [Portfólio Profissional de Joelma Ferreira](https://github.com/joprestes/portfolio).
+Este repositório contém a suíte de testes de ponta a ponta (E2E) desenvolvida com **Cypress** para validar o [Portfólio Profissional de Joelma Ferreira](https://github.com/joelmaferreira/portfolio).
 
 A automação cobre funcionalidades essenciais, comportamento responsivo e critérios de acessibilidade digital com o uso de `cypress-axe`, garantindo que a experiência do usuário final se mantenha funcional, inclusiva e confiável.
 
@@ -61,11 +61,11 @@ A automação cobre funcionalidades essenciais, comportamento responsivo e crit�
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/joelmaferreira/portfolio-automacao.git
+    git clone https://github.com/joelmaferreira/portfolio-automation-tests.git
     ```
 2. Acesse a pasta:
     ```bash
-    cd portfolio-automacao
+    cd portfolio-automation-tests
     ```
 3. Instale as dependências:
     ```bash
@@ -111,6 +111,8 @@ Líder de Engenharia de Qualidade apaixonada por automação de testes, acessibi
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 *(Uma tradução não-oficial está disponível em [LICENSE.pt-BR.md](LICENSE.pt-BR.md).)*
+
+---
 
 ## 🇺🇸 English Version 🇺🇸
 
