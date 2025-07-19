@@ -1,17 +1,61 @@
-# Node modules
+# Node.js
 node_modules/
-
-# Allure reports
-allure-report/
-allure-results/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
 
 # Cypress
 cypress/screenshots/
 cypress/videos/
+cypress/downloads/
 
-# VSCode
+# Allure
+allure-report/
+allure-results/
+
+# IDEs / Editores
 .vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
 
-# Logs e sistema
-*.log
+# Sistema Operacional
 .DS_Store
+Thumbs.db
+
+# Ambientes
+.env
+.env.*.local
+
+# Testes temporários
+coverage/
+*.lcov
+test-output/
+
+# Relatórios
+*.html
+*.xml
+*.csv
+*.pdf
+
+# Logs
+*.log
+*.log.*
+
+# Arquivos de build
+dist/
+build/
+out/
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.bak
+
+# Git
+.git/
+.gitignore
+
+# Arquivos gerados manualmente
+report.html
