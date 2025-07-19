@@ -1,0 +1,18 @@
+
+{
+  "success": {
+    "name": "Usuário de Teste (Fixture)",
+    "email": "teste.fixture@exemplo.com",
+    "message": "Esta é uma mensagem de teste automatizado vinda de um fixture."
+  },
+  "invalidEmail": {
+    "name": "Outro Usuário",
+    "email": "email-invalido",
+    "message": "Testando um email inválido."
+  },
+  "emptyFields": {
+    "name": "",
+    "email": "",
+    "message": ""
+  }
+}
