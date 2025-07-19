@@ -108,9 +108,9 @@ Líder de Engenharia de Qualidade apaixonada por automação de testes, acessibi
 
 ## 📄 Licença
 
-Este projeto está sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
 
----
+*(Uma tradução não-oficial está disponível em [LICENSE.pt-BR.md](LICENSE.pt-BR.md).)*
 
 ## 🇺🇸 English Version 🇺🇸
 
